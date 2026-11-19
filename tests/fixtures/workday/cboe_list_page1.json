@@ -1,0 +1,402 @@
+{
+  "total": 114,
+  "jobPostings": [
+    {
+      "title": "Lead Engineer, QA (Manual)",
+      "externalPath": "/job/New-York-NY/Lead-Engineer--Quality-Assurance_R-4647",
+      "locationsText": "New York, NY",
+      "postedOn": "Posted Today",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4647",
+        "1"
+      ]
+    },
+    {
+      "title": "Senior Engineer - Linux",
+      "externalPath": "/job/Singapore/Senior-Engineer---Linux_R-4415-2",
+      "locationsText": "Singapore",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "R-4415",
+        "0"
+      ]
+    },
+    {
+      "title": "Engineer - Linux",
+      "externalPath": "/job/Singapore/Engineer---Linux_R-4418-1",
+      "locationsText": "Singapore",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "R-4418",
+        "0"
+      ]
+    },
+    {
+      "title": "Manager, Financial Planning & Analysis",
+      "externalPath": "/job/Chicago-IL/Manager--Financial-Planning---Analysis_R-4860",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 3 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4860",
+        "1"
+      ]
+    },
+    {
+      "title": "DevOps Intern",
+      "externalPath": "/job/Overland-Park-OPX/Trade-Desk-Intern_R-4659",
+      "locationsText": "Overland Park OPX",
+      "postedOn": "Posted 4 Days Ago",
+      "bulletFields": [
+        "R-4659",
+        "0"
+      ]
+    },
+    {
+      "title": "Manager, Investigations",
+      "externalPath": "/job/Kansas-City-MO/Manager--Investigations_R-4848",
+      "locationsText": "Kansas City, MO",
+      "postedOn": "Posted 4 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4848",
+        "1"
+      ]
+    },
+    {
+      "title": "EUC Engineer",
+      "externalPath": "/job/Overland-Park-OPX/EUC-Engineer_R-4747-1",
+      "locationsText": "Overland Park OPX",
+      "postedOn": "Posted 5 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4747",
+        "1"
+      ]
+    },
+    {
+      "title": "Software Engineer, Test",
+      "externalPath": "/job/Chicago-IL/Software-Engineer--Test_R-4331",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 5 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4331",
+        "1"
+      ]
+    },
+    {
+      "title": "Compliance Manager - CMP & GRC",
+      "externalPath": "/job/Chicago-IL/Compliance-Manager---CMP---GRC_R-4782",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 6 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4782",
+        "1"
+      ]
+    },
+    {
+      "title": "Accountant",
+      "externalPath": "/job/Kansas-City-MO/Accountant_R-4830",
+      "locationsText": "Kansas City, MO",
+      "postedOn": "Posted 10 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4830",
+        "1"
+      ]
+    },
+    {
+      "title": "Assistant General Counsel – Commercial Contracts",
+      "externalPath": "/job/Chicago-IL/Assistant-General-Counsel---Commercial-Contracts_R-4804",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 10 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4804",
+        "1"
+      ]
+    },
+    {
+      "title": "Senior Engineer, Platform Operations",
+      "externalPath": "/job/Amsterdam-NL/Senior-Engineer--Platform-Operations_R-4797",
+      "locationsText": "Amsterdam, NL",
+      "postedOn": "Posted 10 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4797",
+        "1"
+      ]
+    },
+    {
+      "title": "Enterprise Strategy & Corporate Development Intern",
+      "externalPath": "/job/Chicago-IL/Enterprise-Strategy---Corporate-Development-Intern_R-4805",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 12 Days Ago",
+      "bulletFields": [
+        "R-4805",
+        "0"
+      ]
+    },
+    {
+      "title": "Technical Business Analyst Intern",
+      "externalPath": "/job/Chicago-IL/Technical-Business-Analyst-Intern_R-4710",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 13 Days Ago",
+      "bulletFields": [
+        "R-4710",
+        "0"
+      ]
+    },
+    {
+      "title": "Manager, APAC Communications",
+      "externalPath": "/job/Singapore/Manager--APAC-Communications_R-4799-1",
+      "locationsText": "Singapore",
+      "postedOn": "Posted 13 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4799",
+        "1"
+      ]
+    },
+    {
+      "title": "Sr. Payroll Specialist",
+      "externalPath": "/job/Chicago-IL/Sr-Payroll-Specialist_R-4543",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 14 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4543",
+        "1"
+      ]
+    },
+    {
+      "title": "Brand & Corporate Marketing Manager",
+      "externalPath": "/job/Chicago-IL/Brand---Corporate-Marketing-Manager_R-4784",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 14 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4784",
+        "1"
+      ]
+    },
+    {
+      "title": "Manager, Product Management",
+      "externalPath": "/job/Chicago-IL/Manager--Product-Management_R-4692-1",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 14 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4692",
+        "1"
+      ]
+    },
+    {
+      "title": "Dir, Product Management- Cboe Clear US",
+      "externalPath": "/job/Chicago-IL/Dir--Product-Management--Cboe-Clear-US_R-4662-1",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 14 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4662",
+        "1"
+      ]
+    },
+    {
+      "title": "Senior Operational Resilience Engineer",
+      "externalPath": "/job/London-United-Kingdom/Senior-Operational-Resilience-Engineer_R-4641",
+      "locationsText": "London, United Kingdom",
+      "postedOn": "Posted 14 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4641",
+        "1"
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "facetParameter": "remoteType",
+      "descriptor": "Location Type",
+      "values": [
+        {
+          "descriptor": "Mostly On-Site",
+          "id": "5ea1d65922511001efa8d158e9ec0001",
+          "count": 77
+        },
+        {
+          "descriptor": "Hybrid",
+          "id": "5ea1d65922511001efa8d158e9ec0000",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "facetParameter": "jobFamilyGroup",
+      "descriptor": "Job Category",
+      "values": [
+        {
+          "descriptor": "Technology Solutions & Engineering",
+          "id": "dfa3890fb329100161c1f65c64ac0000",
+          "count": 49
+        },
+        {
+          "descriptor": "Product",
+          "id": "a002b9c2871810015c41bda1cf570000",
+          "count": 16
+        },
+        {
+          "descriptor": "Early Career",
+          "id": "9a05878c350a1001535d60b2f0260000",
+          "count": 13
+        },
+        {
+          "descriptor": "Regulatory & Compliance",
+          "id": "2509db1e0f401001a6ae0a1367a00000",
+          "count": 10
+        },
+        {
+          "descriptor": "Risk Management",
+          "id": "dfa3890fb329100161a6056e31010000",
+          "count": 5
+        },
+        {
+          "descriptor": "Finance",
+          "id": "37e8e2d2bc48017de7fe17a58145dd67",
+          "count": 5
+        },
+        {
+          "descriptor": "Legal",
+          "id": "c9a57fe38feb1001646ec209d6c70000",
+          "count": 4
+        },
+        {
+          "descriptor": "Marketing & Communications",
+          "id": "1f03ce45b9ee0103685c398a1a01be9c",
+          "count": 4
+        },
+        {
+          "descriptor": "Technology",
+          "id": "37e8e2d2bc48010aa77482a581450b68",
+          "count": 4
+        },
+        {
+          "descriptor": "Data Insights",
+          "id": "dfa3890fb3291001613a9ac36a000000",
+          "count": 2
+        },
+        {
+          "descriptor": "Human Resources",
+          "id": "37e8e2d2bc4801279a902ca58145e567",
+          "count": 1
+        },
+        {
+          "descriptor": "Corporate & Business Services",
+          "id": "605b72cb844710016124b1377bc30000",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "facetParameter": "workerSubType",
+      "descriptor": "Job Type",
+      "values": [
+        {
+          "descriptor": "Regular",
+          "id": "aa49a16b92a6018dafea43dd0d44a60f",
+          "count": 100
+        },
+        {
+          "descriptor": "Intern (Trainee)",
+          "id": "aa49a16b92a6011f111f4add0d44a80f",
+          "count": 13
+        },
+        {
+          "descriptor": "Temporary",
+          "id": "aa49a16b92a601b2cc3047dd0d44a70f",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "facetParameter": "locationMainGroup",
+      "values": [
+        {
+          "facetParameter": "locations",
+          "descriptor": "Locations",
+          "values": [
+            {
+              "descriptor": "Amsterdam",
+              "id": "9e03e80a1d1801fcc9c9ffc9b64f3ed9",
+              "count": 1
+            },
+            {
+              "descriptor": "Amsterdam, NL",
+              "id": "00c1baa6e4e001b6590b7bbeb8000626",
+              "count": 2
+            },
+            {
+              "descriptor": "Chicago, IL",
+              "id": "0be9eb366a2901aa78cd5ddab473c71b",
+              "count": 71
+            },
+            {
+              "descriptor": "Chicago HQ OPO",
+              "id": "abd663b8251e01957ed386b38607ff73",
+              "count": 1
+            },
+            {
+              "descriptor": "Kansas City, MO",
+              "id": "0be9eb366a2901be0becdaefb573d41b",
+              "count": 29
+            },
+            {
+              "descriptor": "Lenexa, KS",
+              "id": "aa49a16b92a601c93068954b17440620",
+              "count": 1
+            },
+            {
+              "descriptor": "London, United Kingdom",
+              "id": "1cfe80ab60900100f4bd59b995bc0000",
+              "count": 11
+            },
+            {
+              "descriptor": "New York",
+              "id": "aa49a16b92a6016c6a73874b1744f71f",
+              "count": 1
+            },
+            {
+              "descriptor": "New York, NY",
+              "id": "0be9eb366a29011633606b30b673e01b",
+              "count": 16
+            },
+            {
+              "descriptor": "Overland Park OPX",
+              "id": "efa60daaaba410019bd275730c7e0000",
+              "count": 10
+            },
+            {
+              "descriptor": "Overland Park OPX",
+              "id": "42f95e6562541001a5b3e497957b0000",
+              "count": 1
+            },
+            {
+              "descriptor": "Secaucus, NJ",
+              "id": "0be9eb366a290156cf767ca2b573cf1b",
+              "count": 1
+            },
+            {
+              "descriptor": "Singapore",
+              "id": "1cfe80ab60900100f53c7ebeb0310000",
+              "count": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "userAuthenticated": false
+}

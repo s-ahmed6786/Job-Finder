@@ -1,0 +1,385 @@
+{
+  "total": 49,
+  "jobPostings": [
+    {
+      "title": "Lead Engineer, QA (Manual)",
+      "externalPath": "/job/New-York-NY/Lead-Engineer--Quality-Assurance_R-4647",
+      "locationsText": "New York, NY",
+      "postedOn": "Posted Today",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4647",
+        "1"
+      ]
+    },
+    {
+      "title": "Senior Engineer - Linux",
+      "externalPath": "/job/Singapore/Senior-Engineer---Linux_R-4415-2",
+      "locationsText": "Singapore",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "R-4415",
+        "0"
+      ]
+    },
+    {
+      "title": "Engineer - Linux",
+      "externalPath": "/job/Singapore/Engineer---Linux_R-4418-1",
+      "locationsText": "Singapore",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+        "R-4418",
+        "0"
+      ]
+    },
+    {
+      "title": "EUC Engineer",
+      "externalPath": "/job/Overland-Park-OPX/EUC-Engineer_R-4747-1",
+      "locationsText": "Overland Park OPX",
+      "postedOn": "Posted 5 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4747",
+        "1"
+      ]
+    },
+    {
+      "title": "Software Engineer, Test",
+      "externalPath": "/job/Chicago-IL/Software-Engineer--Test_R-4331",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 5 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4331",
+        "1"
+      ]
+    },
+    {
+      "title": "Senior Engineer, Platform Operations",
+      "externalPath": "/job/Amsterdam-NL/Senior-Engineer--Platform-Operations_R-4797",
+      "locationsText": "Amsterdam, NL",
+      "postedOn": "Posted 10 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4797",
+        "1"
+      ]
+    },
+    {
+      "title": "Senior Operational Resilience Engineer",
+      "externalPath": "/job/London-United-Kingdom/Senior-Operational-Resilience-Engineer_R-4641",
+      "locationsText": "London, United Kingdom",
+      "postedOn": "Posted 14 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4641",
+        "1"
+      ]
+    },
+    {
+      "title": "Sr. Storage Engineer",
+      "externalPath": "/job/Chicago-IL/Sr-Storage-Engineer_R-4607-1",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 20 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4607",
+        "1"
+      ]
+    },
+    {
+      "title": "DevEx Engineer",
+      "externalPath": "/job/Chicago-IL/DevEx-Engineer_R-4731-1",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 26 Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4731",
+        "1"
+      ]
+    },
+    {
+      "title": "Senior Python Software Engineer",
+      "externalPath": "/job/London-United-Kingdom/Senior-Python-Software-Engineer_R-4736-2",
+      "locationsText": "London, United Kingdom",
+      "postedOn": "Posted 30+ Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4736",
+        "1"
+      ]
+    },
+    {
+      "title": "Sr. Information Security Engineer (Systems Engineer)",
+      "externalPath": "/job/Kansas-City-MO/Sr-Information-Security-Engineer_R-4384-1",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+        "R-4384",
+        "0"
+      ]
+    },
+    {
+      "title": "Sr. Cybersecurity Vulnerability/Exposure Engineer",
+      "externalPath": "/job/Chicago-IL/Senior-Specialist---VMT_R-4451",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+        "R-4451",
+        "0"
+      ]
+    },
+    {
+      "title": "Software Engineer, Backend (Clearing)",
+      "externalPath": "/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4728-1",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 30+ Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4728",
+        "1"
+      ]
+    },
+    {
+      "title": "Software Engineer, Backend (Clearing)",
+      "externalPath": "/job/Chicago-IL/Software-Engineer--Backend--Clearing-_R-4729-1",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 30+ Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4729",
+        "1"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "externalPath": "/job/Kansas-City-MO/Software-Engineer_R-4656-1",
+      "locationsText": "Kansas City, MO",
+      "postedOn": "Posted 30+ Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4656",
+        "1"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer, Web",
+      "externalPath": "/job/London-United-Kingdom/Senior-Software-Engineer--Web_R-4341",
+      "locationsText": "London, United Kingdom",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+        "R-4341",
+        "0"
+      ]
+    },
+    {
+      "title": "GRC Platform Principal",
+      "externalPath": "/job/Chicago-IL/GRC-Platform-Principal_R-4725",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 30+ Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4725",
+        "1"
+      ]
+    },
+    {
+      "title": "Sr Software Engineer, Build and Release Management",
+      "externalPath": "/job/Overland-Park-OPX/Sr-Software-Engineer--Build-and-Release-Management_R-4423",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+        "R-4423",
+        "0"
+      ]
+    },
+    {
+      "title": "Senior Engineer, Quality Assurance/Engineering",
+      "externalPath": "/job/Amsterdam-NL/Senior-Engineer--Quality-Assurance-Engineering_R-4637",
+      "locationsText": "Amsterdam, NL",
+      "postedOn": "Posted 30+ Days Ago",
+      "remoteType": "Mostly On-Site",
+      "bulletFields": [
+        "R-4637",
+        "1"
+      ]
+    },
+    {
+      "title": "Principal Network Engineer",
+      "externalPath": "/job/Chicago-IL/Principal-Network-Engineer_R-4509",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+        "R-4509",
+        "0"
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "facetParameter": "remoteType",
+      "descriptor": "Location Type",
+      "values": [
+        {
+          "descriptor": "Mostly On-Site",
+          "id": "5ea1d65922511001efa8d158e9ec0001",
+          "count": 32
+        },
+        {
+          "descriptor": "Hybrid",
+          "id": "5ea1d65922511001efa8d158e9ec0000",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "facetParameter": "jobFamilyGroup",
+      "descriptor": "Job Category",
+      "values": [
+        {
+          "descriptor": "Technology Solutions & Engineering",
+          "id": "dfa3890fb329100161c1f65c64ac0000",
+          "count": 49
+        },
+        {
+          "descriptor": "Product",
+          "id": "a002b9c2871810015c41bda1cf570000",
+          "count": 16
+        },
+        {
+          "descriptor": "Early Career",
+          "id": "9a05878c350a1001535d60b2f0260000",
+          "count": 13
+        },
+        {
+          "descriptor": "Regulatory & Compliance",
+          "id": "2509db1e0f401001a6ae0a1367a00000",
+          "count": 10
+        },
+        {
+          "descriptor": "Risk Management",
+          "id": "dfa3890fb329100161a6056e31010000",
+          "count": 5
+        },
+        {
+          "descriptor": "Finance",
+          "id": "37e8e2d2bc48017de7fe17a58145dd67",
+          "count": 5
+        },
+        {
+          "descriptor": "Legal",
+          "id": "c9a57fe38feb1001646ec209d6c70000",
+          "count": 4
+        },
+        {
+          "descriptor": "Marketing & Communications",
+          "id": "1f03ce45b9ee0103685c398a1a01be9c",
+          "count": 4
+        },
+        {
+          "descriptor": "Technology",
+          "id": "37e8e2d2bc48010aa77482a581450b68",
+          "count": 4
+        },
+        {
+          "descriptor": "Data Insights",
+          "id": "dfa3890fb3291001613a9ac36a000000",
+          "count": 2
+        },
+        {
+          "descriptor": "Corporate & Business Services",
+          "id": "605b72cb844710016124b1377bc30000",
+          "count": 1
+        },
+        {
+          "descriptor": "Human Resources",
+          "id": "37e8e2d2bc4801279a902ca58145e567",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "facetParameter": "workerSubType",
+      "descriptor": "Job Type",
+      "values": [
+        {
+          "descriptor": "Regular",
+          "id": "aa49a16b92a6018dafea43dd0d44a60f",
+          "count": 48
+        },
+        {
+          "descriptor": "Temporary",
+          "id": "aa49a16b92a601b2cc3047dd0d44a70f",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "facetParameter": "locationMainGroup",
+      "values": [
+        {
+          "facetParameter": "locations",
+          "descriptor": "Locations",
+          "values": [
+            {
+              "descriptor": "Chicago, IL",
+              "id": "0be9eb366a2901aa78cd5ddab473c71b",
+              "count": 31
+            },
+            {
+              "descriptor": "Kansas City, MO",
+              "id": "0be9eb366a2901be0becdaefb573d41b",
+              "count": 12
+            },
+            {
+              "descriptor": "London, United Kingdom",
+              "id": "1cfe80ab60900100f4bd59b995bc0000",
+              "count": 7
+            },
+            {
+              "descriptor": "New York, NY",
+              "id": "0be9eb366a29011633606b30b673e01b",
+              "count": 6
+            },
+            {
+              "descriptor": "Overland Park OPX",
+              "id": "efa60daaaba410019bd275730c7e0000",
+              "count": 6
+            },
+            {
+              "descriptor": "Singapore",
+              "id": "1cfe80ab60900100f53c7ebeb0310000",
+              "count": 2
+            },
+            {
+              "descriptor": "Amsterdam, NL",
+              "id": "00c1baa6e4e001b6590b7bbeb8000626",
+              "count": 2
+            },
+            {
+              "descriptor": "Chicago HQ OPO",
+              "id": "abd663b8251e01957ed386b38607ff73",
+              "count": 1
+            },
+            {
+              "descriptor": "Amsterdam",
+              "id": "9e03e80a1d1801fcc9c9ffc9b64f3ed9",
+              "count": 1
+            },
+            {
+              "descriptor": "Secaucus, NJ",
+              "id": "0be9eb366a290156cf767ca2b573cf1b",
+              "count": 1
+            },
+            {
+              "descriptor": "Overland Park OPX",
+              "id": "42f95e6562541001a5b3e497957b0000",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "userAuthenticated": false
+}

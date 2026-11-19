@@ -1,0 +1,82 @@
+{
+  "jobPostingInfo": {
+    "id": "9aa14ed3cf46100105cb9f839a790000",
+    "title": "Software Engineer, Test",
+    "jobDescription": "<h2>Job Description:</h2><p><b>Building trusted markets — powered by our people.</b></p><div><p><span><span>At Cboe Global Markets, we inspire our people to solve complex challenges together because what we do matters. We provide<span> </span></span><span>the financial</span><span><span> </span>infrastructure that powers the global economy. As a leading provider of market infrastructure and tradable products, Cboe delivers<span> </span></span><span>cutting-edge</span><span><span> </span>trading, clearing and investment solutions to market participants around the world. </span></span><span> </span></p></div><div><p><span><span> </span></span><span> </span></p></div><div><p><span><span>We’re</span><span><span> </span>building meaningful ways to support professional and personal development while strengthening the trust<span> </span></span><span>we’ve</span><span><span> </span>earned as a global market leader. Our teams are empowered to share ideas, actively pursue<span> </span></span><span>them</span><span><span> </span>and bring on a challenge. As champions of internal mobility and access to opportunity, we encourage our people to “go for it” and equip our managers with the training to coach their teams to the next level. We strive to<span> </span></span><span>provide</span><span><span> </span></span><span>employees</span><span><span> </span>a safe space to network, share<span> </span></span><span>ideas</span><span><span> </span>and create opportunities.  </span></span><span> </span></p></div><p></p><p><span><span><span><i><b>To support </b></i><span><i><b>strong partnership and team connection, this role follows a four day in office work model.</b></i></span></span></span></span></p><p></p><div><p><b><span>Location Overview</span></b><span> </span></p></div><div><p><span><span>Cboe HQ<span> </span></span><span>is<span> </span></span><span>located in</span><span><span> </span>the historic Old Post Office<span> </span></span><span>district,</span><span><span> </span>i</span><span>t’</span><span>s a landmark that blends classic architecture with modern amenities. The building features expansive spaces with<span> </span></span><span>high ceilings</span><span><span> </span>and large windows, offering an abundance of natural light and panoramic views of the<span> </span></span><span>city</span><span><span> </span>skyline and the Chicago River.</span></span><span> </span></p></div><div><p><span> </span></p></div><div><p><span><span>With its prime location in the heart of downtown, the OPO Building provides easy access to major transportation hubs, including Union Station and multiple CTA lines, making it convenient for commuters. The building is home to a variety of amenities, including restaurants,<span> </span></span><span>a<span> </span></span><span>fitness center, and collaborative workspaces, creating a vibrant and dynamic work environment in one of Chicago&#39;s most iconic areas.</span></span><span> </span></p></div><p></p><p><b>Role Overview</b></p><p>We design, develop, deploy, and support global clearing systems. We care deeply about system reliability, testability, recoverability, fault tolerance, throughput, and latency. Our engineers have a strong understanding of computer science fundamentals and software engineering. We are analytical thinkers. We are always learning our craft. If it’s broken, we fix it. If it needs refactoring, we refactor it. If it’s hard to test, we make it testable. We like statistics. We love automation. We are pragmatic. We’re looking for like-minded individuals to join us.</p><p></p><p><b><span>Your responsibilities will be:</span></b><span> </span></p><p>Cboe Clearing US is actively seeking a dedicated and highly motivated team-oriented person to fill the role of Software Engineer, Test (QA) supporting our Clearing platform and their system functionality.  A Software Engineer, Test at Cboe will work across US Clearing Systems groups; you will work alongside engineering and product teams to ensure new features and functionality work as expected. You will work to ensure the overall health of the system to ensure releases are stable, don’t have a negative impact on customers, and are accomplished as smoothly as possible. This will be successfully achieved through a combination of manual and automation testing with more emphasis on automation.</p><p></p><p><b><span>The ideal candidate has</span></b><span> </span></p><ul><li>Bachelor’s degree in computer science, engineering, or other related field or equivalent experience.</li><li>2&#43; years of QA experience is required, with recent and demonstrable experience creating automated test cases, and coding and enhancing test frameworks.</li><li>Experience with Cucumber BDD framework for feature files and reporting.</li><li>Experience with Selenium or Playwright or other UI automation tools.</li><li>Experience in Java and Python development for testing. Scripting experience or a working knowledge of another scripting or programming language will add value. </li><li>Experience testing API and API automation testing (Rest and SOAP)</li><li>Strong understanding of object-oriented design and programming techniques.</li><li>Strong working knowledge/understanding of Docker / Kubernetes architecture.</li><li>Strong working knowledge in database platforms such as: PostgreSQL (preferred), MySQL, or similar RDBMS, and document DB like MongoDB. A good working knowledge of SQL is a must.</li><li><p><span>Hands on experience with AI and AI-powered testing tools to automate test case generation, execution, and maintenance, improving efficiency and reducing manual effort. </span></p></li><li><p><span>Practical experience with tools such as Claude Code, or similar </span></p></li><li>Experience with Unix/Linux (preference: RHEL/RPM based Linux).</li><li>Familiarity with FIX 4.4, Swift messaging protocols, and Kafka. Related testing experience will be a plus.</li><li>Experience with version control tools such as Git (preferred), or other version control tools. </li><li>Experience working in a continuous integration environment and with tools such as Jenkins or Bamboo.</li><li>Experience with the Atlassian tool set is a plus.</li><li>The successful candidate will have excellent analytical skills, an exacting attention to detail, and an ability to work collaboratively and communicate effectively within a cross-functional team environment. </li></ul><p></p><p><b>You&#39;ll really stand out with:</b></p><ul><li>Experience working in financial markets and knowledge of clearing, trade processing or market data protocols.</li></ul><p></p><div><div><p><b><span>Benefits and Perks</span><span><span> </span>of working for Cboe Global Markets</span></b><span> </span></p></div><div><p><span><span>We value the total wellbeing of our people – including health, financial,<span> </span></span><span>personal</span><span><span> </span>and social wellness. We believe standard benefits like health insurance and fair pay are<span> </span></span><span>a given</span><span><span> </span></span><span>at</span><span><span> </span>any organization. Still, you should<span> </span></span><span>know</span><span><span> </span>we offer:</span></span><span> </span></p></div><div><ul><li><p><span><span>Fair and competitive salary and incentive compensation packages with an upside for overachievement </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Generous paid time off, including vacation, personal days, sick<span> </span></span><span>days</span><span><span> </span>and annual community service days </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Health, dental and vision benefits, including access to telemedicine and mental health services </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>2:1 401(k) match, up to 8% match<span> </span></span><span>immediately</span><span><span> </span>upon hire </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Discounted Employee Stock Purchase Plan  </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Tax Savings Accounts for health,<span> </span></span><span>dependent</span><span><span> </span>and transportation </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Employee referral bonus program  </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Volunteer opportunities to help you give back to your communities  </span></span><span> </span></p></li></ul></div><div><p><span> </span></p></div><div><p><span><span>Some of our associates’ favorite benefits and<span> </span></span><span>perks</span><span><span> </span>include: </span></span><span> </span></p></div></div><div><div><ul><li><p><span><span>Complimentary lunch,<span> </span></span><span>snacks</span><span><span> </span>and coffee in any Cboe office </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Paid Tuition<span> </span></span><span>assistance</span><span><span> </span>and education opportunities </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Generous charitable giving company match </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Paid parental leave and fertility benefits  </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>On-site gyms and discounts to other fitness centers </span></span><span> </span></p></li></ul></div><div><ul><li><p><span><span>Paid Time Off</span></span><span> </span></p></li></ul></div><div><p><span> </span></p></div><div><p><b><span>More About Cboe<span> </span></span><span>Global Markets</span></b><span> </span></p></div><div><p><span><span>We’re</span><span><span> </span>reimagining the future of the workplace by focusing on what matters most, our people. Our journey is an inclusive one.<span> </span></span><span>We’re</span><span><span> </span>investing deeply in leadership programs and career development initiatives that ensure everyone has an equal chance to succeed.  </span></span><span> </span></p></div><div><p><span> </span></p></div><div><p><span><span>We work with purpose, solving problems with ingenuity, collaboration, and a lot of passion.<span> </span></span><span>We’re</span><span><span> </span>an engaged and excited team connecting markets across borders and embracing growth in all its forms to achieve incredible outcomes. </span></span><span> </span></p></div><div><p><span> </span></p></div><div><p><span><span>Learn more about life at Cboe on<span> </span></span></span><a href=\"https://www.cboe.com/about/careers/\" target=\"_blank\"><u><span>our website</span></u></a><span><span><span> </span>and<span> </span></span></span><a href=\"https://www.linkedin.com/company/cboe/life/ourcboe/?viewAsMember&#61;true\" target=\"_blank\"><u><span>LinkedIn</span></u></a><span><span>.</span></span><span> </span></p></div><div><p><span> </span></p></div><div><p><b><span>Equal Employment Opportunity</span></b><span> </span></p></div><div><p><span><span>We&#39;re</span><span><span> </span>proud to be an equal opportunity employer do not discriminate against any employee or applicant for employment based on any legally protected characteristic, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or</span><span><span> </span>v</span><span>eteran status. We are committed to fostering a workplace where all individuals are valued and respected.  </span></span><span> </span></p><p></p><p>#LI-CP2</p></div></div><p><br /> </p><p><b>This position is not eligible for visa sponsorship. Candidates must be legally authorized to work in the United States without the need for employer sponsorship now or in the future.</b></p><p> </p><p> </p><p><b>Salary Ranges (applicable for US locations only)</b></p>At Cboe, we are committed to providing a competitive, transparent, and market‑informed total rewards program. The anticipated base salary range for this role is $102,850-$133,100, with actual compensation determined by job‑related factors such as skills, relevant experience, education, internal alignment, and location.<p> </p><p> </p><p>This role may also be eligible for annual incentive compensation and, where applicable, participation in Cboe&#39;s long-term equity programs.  </p><p></p><p>Additional information about Cboe&#39;s total rewards program, including benefits and other compensation components, can be found here: <span style=\"color:#1d2851\"> </span><a target=\"_blank\" href=\"https://careers.cboe.com/us/en/benefits-and-perks\"><span style=\"color:#0000ff\"><u>Total Rewards at CBOE</u></span></a><span style=\"color:#1d2851\">.</span>​<br /> </p><p><br /> </p><p><i>Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a &#64;cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes. </i></p>",
+    "location": "Chicago, IL",
+    "postedOn": "Posted 5 Days Ago",
+    "startDate": "2026-11-11",
+    "timeType": "Full time",
+    "jobReqId": "R-4331",
+    "jobPostingId": "Software-Engineer--Test_R-4331",
+    "jobPostingSiteId": "External_Career_CBOE",
+    "country": {
+      "descriptor": "United States of America",
+      "id": "bc33aa3152ec42d4995f4791a106ed09"
+    },
+    "canApply": true,
+    "posted": true,
+    "includeResumeParsing": true,
+    "jobRequisitionLocation": {
+      "descriptor": "Chicago HQ OPO",
+      "country": {
+        "descriptor": "United States of America",
+        "id": "bc33aa3152ec42d4995f4791a106ed09",
+        "alpha2Code": "US"
+      }
+    },
+    "remoteType": "Mostly On-Site",
+    "externalUrl": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Software-Engineer--Test_R-4331",
+    "questionnaireId": "ad629a38286a1001098ff08071c10000"
+  },
+  "hiringOrganization": {
+    "name": "CSC Cboe Services Company",
+    "url": ""
+  },
+  "similarJobs": [
+    {
+      "title": "Principal Software Engineer",
+      "externalPath": "/job/Chicago-IL/Principal-Software-Engineer_R-4609-1",
+      "timeType": "Full time",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-09-01",
+      "remoteType": "Mostly On-Site"
+    },
+    {
+      "title": "Software Engineer",
+      "externalPath": "/job/Chicago-IL/Software-Engineer_R-4636-2",
+      "timeType": "Full time",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-09-25",
+      "remoteType": "Mostly On-Site"
+    },
+    {
+      "title": "Sr. Detection Engineer",
+      "externalPath": "/job/Chicago-IL/Sr-Info-Security-Specialist_R-4386",
+      "timeType": "Full time",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-09-25"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "externalPath": "/job/Chicago-IL/Software-Engineer-Intern_R-4654",
+      "timeType": "Full time",
+      "locationsText": "3 Locations",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-10-09"
+    },
+    {
+      "title": "Senior QA Automation Test Engineer",
+      "externalPath": "/job/Chicago-IL/Senior-QA-Automation-Test-Engineer_R-4685-1",
+      "timeType": "Full time",
+      "locationsText": "Chicago, IL",
+      "postedOn": "Posted 30+ Days Ago",
+      "startDate": "2026-09-29",
+      "remoteType": "Mostly On-Site"
+    }
+  ],
+  "userAuthenticated": false
+}
