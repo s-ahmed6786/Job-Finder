@@ -66,7 +66,7 @@ Rules:
 - Detail: `GET /v1/boards/{token}/jobs/{id}` has the same fields plus content. `id` equals the `gh_jid` in `absolute_url`.
 - Wrong board token returns HTTP 404 `{"status":404,"error":"Job not found"}`. Key on the status code, not the text. 404 on a list call = bad token / company left; do not treat as "zero jobs".
 - Board token is not always the company name (HubSpot is `hubspotjobs`).
-- `absolute_url` can be a company-hosted page (Databricks) or an EU host (IMC). Use the URL from the response; never construct it.
+- `absolute_url` can be a company-hosted page (Databricks) or an EU host (IMC). Use the URL from the response; never construct it. EU-hosted boards still use the US API host; `boards-api.eu.greenhouse.io` does not exist.
 - `updated_at` is unreliable: bulk-synced on Databricks, IMC and partly Stripe. Detect edits with `content_hash`.
 - `requisition_id` is unreliable (Stripe "See Opening ID", nulls on HubSpot/IMC/Optiver). `internal_job_id` is sometimes null and sometimes shared by many postings (IMC posts one role per office).
 - Locations are free text: "N/A", "US-Remote", multi-city strings joined by `;`, double spaces. Keep the raw string and split on `;` and trim for the list.
@@ -82,7 +82,8 @@ Rules:
 | Databricks | Greenhouse | `databricks` | verified (892 jobs) |
 | Stripe | Greenhouse | `stripe` | verified (791 jobs) |
 | HubSpot | Greenhouse | `hubspotjobs` | verified; board has almost no engineering roles, check HubSpot's careers page |
-| IMC | Greenhouse | `imc` (board is EU-hosted) | verified; unsure whether US API host also serves it |
+| IMC | Greenhouse | `imc` (job pages EU-hosted) | verified; served by the US API host `boards-api.greenhouse.io` (checked live Nov 2026) |
+| Block | Greenhouse | `block` | verified live Nov 2026 (job URLs use http://block.xyz) |
 | Optiver | Greenhouse? | token unknown (`optiverprivate` is a junk board) | find real token from an apply link |
 | Microsoft, Google, Salesforce, ServiceNow, Bloomberg, Capital One, JPMorgan, Discover, Autodesk, Schwab | unknown | | identify ATS from the apply-link domain |
 
@@ -94,7 +95,6 @@ Rules:
 5. Run on the verified companies and inspect the data.
 
 ## Unverified / TODO
-- Whether IMC resolves on both the US and EU Greenhouse API hosts.
 - Closed/removed job behavior on the Greenhouse detail endpoint.
 - Rate limits of both APIs (test with a small burst; log 429s).
 - Optiver's real board token; HubSpot engineering roles.

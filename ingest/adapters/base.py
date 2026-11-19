@@ -48,6 +48,15 @@ class SchemaError(AdapterError):
     """Response did not have the shape we expect (undocumented APIs change)."""
 
 
+class EmptyBoard(AdapterError):
+    """The board returned zero jobs in total. Treated as an error, not as
+    "everything closed", so no job status changes."""
+
+
+class JobNotFound(AdapterError):
+    """Detail call returned 404 (job removed between the list and detail calls)."""
+
+
 class ConfigError(AdapterError):
     """companies.config is missing or has invalid keys for this ATS."""
 
@@ -135,3 +144,45 @@ class Adapter(ABC):
     @abstractmethod
     async def get_job(self, company: Company, source_job_id: str) -> JobDetail:
         """Full detail for one job. Called only for jobs new to the DB."""
+
+    # --- shared HTTP helpers -------------------------------------------------
+
+    async def _send(self, company: Company, method: str, url: str, **kw: Any) -> httpx.Response:
+        """Send a request. Raises RateLimited on 429 and AdapterError on network
+        failure. Other status codes are returned for the caller to interpret."""
+        try:
+            resp = await self.client.request(method, url, **kw)
+        except httpx.HTTPError as e:
+            raise AdapterError(f"{method} {url} failed: {e!r}", company=company.name) from e
+        if resp.status_code == 429:
+            raise RateLimited(
+                f"{method} {url} rate limited",
+                retry_after=_retry_after(resp),
+                company=company.name,
+                status_code=429,
+            )
+        return resp
+
+    @staticmethod
+    def _json(company: Company, resp: httpx.Response) -> Any:
+        if not resp.is_success:
+            raise AdapterError(
+                f"{resp.request.method} {resp.request.url} returned HTTP {resp.status_code}",
+                company=company.name,
+                status_code=resp.status_code,
+            )
+        try:
+            return resp.json()
+        except ValueError as e:
+            raise SchemaError(
+                f"{resp.request.url} returned non-JSON body", company=company.name,
+                status_code=resp.status_code,
+            ) from e
+
+
+def _retry_after(resp: httpx.Response) -> float | None:
+    value = resp.headers.get("Retry-After")
+    try:
+        return float(value) if value is not None else None
+    except ValueError:
+        return None  # HTTP-date form; caller falls back to its own backoff

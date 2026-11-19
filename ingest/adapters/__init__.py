@@ -8,7 +8,9 @@ from .base import (
     BoardNotFound,
     Company,
     ConfigError,
+    EmptyBoard,
     JobDetail,
+    JobNotFound,
     JobSummary,
     RateLimited,
     SchemaError,
@@ -33,5 +35,9 @@ def adapter_for(ats: str) -> type[Adapter]:
 
 __all__ = [
     "Adapter", "AdapterError", "BoardNotFound", "Company", "ConfigError",
-    "JobDetail", "JobSummary", "RateLimited", "SchemaError", "adapter_for", "register",
+    "EmptyBoard", "JobDetail", "JobNotFound", "JobSummary", "RateLimited", "SchemaError",
+    "adapter_for", "register",
 ]
+
+# Import adapter modules so they register themselves.
+from . import greenhouse  # noqa: E402,F401
